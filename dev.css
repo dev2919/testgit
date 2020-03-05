@@ -2,4 +2,5 @@ body{
   padding: 10px;
   background-color: brown;
   font-size: 45px;
+  overflow: hidden;
 }
