@@ -3,4 +3,5 @@ body{
   background-color: brown;
   font-size: 45px;
   overflow: hidden;
+  padding-left: 10px;
 }
